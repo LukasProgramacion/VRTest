@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/Mierda/Resources.meta
 guid: 4aa6ea5af407e4b4fb0e7a390212fed8
+========
+guid: d0a28ac516df40a4dac4e04bedc4c237
+>>>>>>>> Stashed changes:Assets/Samples/Meta XR Core SDK/68.0.3.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

@@ -1,6 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/Samples/Meta XR Core SDK/68.0.3.meta
 guid: d0a28ac516df40a4dac4e04bedc4c237
 folderAsset: yes
+========
+guid: 7ea9f7c90c2fa404d86276a633b59903
+>>>>>>>> Stashed changes:Assets/Samples/Meta XR Core SDK/68.0.3/Sample Scenes/ControllerDrivenHandPoses.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 

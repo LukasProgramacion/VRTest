@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/Mierda/Oculus.meta
 guid: 13585fe8d2c1c114c9d83145891a49ef
+========
+guid: 86d2b5b47e2680e41857db71c66cde5e
+>>>>>>>> Stashed changes:Assets/Samples/Meta XR Core SDK.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
